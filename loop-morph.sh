@@ -18,5 +18,6 @@ for file in "$input_directory"/*; do
 
   # Run the command with the current file as the argument and the output file
   python3 -m riffusion.cli audio-to-image -a "$file" -i "$output_file"
+
 done
 
