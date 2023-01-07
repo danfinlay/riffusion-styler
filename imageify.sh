@@ -3,7 +3,7 @@
 # Set the directory containing the input files
 input_directory="./loops/0-raw"
 # Set the directory for the output files
-output_directory="./loops/1-raw-images"
+output_directory="./loops/"
 
 # Loop through all files in the input directory
 for file in "$input_directory"/*; do
