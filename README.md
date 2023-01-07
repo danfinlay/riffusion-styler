@@ -1,4 +1,6 @@
-# :guitar: Riffusion
+# :guitar: Riffusion Styler
+
+A fork of [Riffusion](https://github.com/riffusion/riffusion) with [an extra script](./styler.md) designed for adding styles to an audio clip.
 
 <a href="https://github.com/riffusion/riffusion/actions/workflows/ci.yml?query=branch%3Amain"><img alt="CI status" src="https://github.com/riffusion/riffusion/actions/workflows/ci.yml/badge.svg" /></a>
 <img alt="Python 3.9 | 3.10" src="https://img.shields.io/badge/Python-3.9%20%7C%203.10-blue" />
