@@ -118,6 +118,8 @@ Execute:
 python -m riffusion.cli image-to-audio --image spectrogram_image.png --audio clip.wav
 ```
 
+Add a style to an audio clip with [styler](./styler.md).
+
 ## Riffusion Playground
 
 Riffusion contains a [streamlit](https://streamlit.io/) app for interactive use and exploration.

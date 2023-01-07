@@ -30,8 +30,8 @@ python3 -m riffusion.cli audio-to-image -a "$file" -i "$output_file"
 
 # Run the CURL command with the file and prompt arguments
 curl -X POST -H "Content-Type: application/json" -d '{
-  "alpha": 0.75,
-  "num_inference_steps": 50,
+  "alpha": 0,
+  "num_inference_steps": 30,
   "seed_image_id": "'"$seed_id"'",
 
   "start": {
